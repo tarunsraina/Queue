@@ -11,10 +11,6 @@ public class StackImplementationUsingQueue {
 	static Queue<Integer> q2=new LinkedList<Integer>();
 
 	public static void main(String[] args) {
-		
-		
-		
-		
 		while(true)
 		{
 			System.out.println("Enter your Choice");
